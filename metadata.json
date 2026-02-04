@@ -1,0 +1,7 @@
+{
+  "name": "Netilify VibeStyle Closing Engine ",
+  "description": "netlify deploy prep",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}

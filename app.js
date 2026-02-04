@@ -1,0 +1,1 @@
+// Legacy entry point removed. Main application logic consolidated in index.tsx for stability.

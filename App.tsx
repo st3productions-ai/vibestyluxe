@@ -1,0 +1,1 @@
+// Consolidation active. See index.tsx.
